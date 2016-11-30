@@ -54,7 +54,7 @@ namespace WinForm
         private void TestStub()
         {
             //var walletId = "1C3WStWpfCmsoG5WmDeaYSwAeEY1ncWQoh";
-            //Transaction.SearchWallet(walletId);
+            Transaction.SearchWallet("3CaaFJF39T9TWiNtCKTnU79A3NvGeWKdqL");
 
             //var txProp = Transaction.DecodeTransactionBitcoinLib("54e48e5f5c656b26c3bca14a8c95aa583d07ebe84dde3b7dd4a78f4e4186e713 ");
             //Transaction.DetermineFileType(txProp);
